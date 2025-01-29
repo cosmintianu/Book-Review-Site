@@ -86,7 +86,7 @@ The system follows a relational database model with the following tables:
    ```
 2. Navigate to the backend folder and install dependencies:
    ```sh
-   cd backend
+   cd Back-End
    mvn install
    ```
 3. Start the backend server:
@@ -95,7 +95,7 @@ The system follows a relational database model with the following tables:
    ```
 4. Navigate to the frontend folder and install dependencies:
    ```sh
-   cd frontend
+   cd Front-End
    npm install
    ```
 5. Start the frontend application:
